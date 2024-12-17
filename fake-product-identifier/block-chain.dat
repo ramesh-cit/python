@@ -1,0 +1,5 @@
+{"index": 1, "timestamp": "2021-12-20 20:25:30.428812", "data": "genesis block", "proof": 1, "previous_hash": "0"}
+{"index": 2, "timestamp": "2021-12-20 20:25:50.553327", "data": "Samsung Front Load Washer with Vibration Reduction Technology,Model:WF45T6000AP/US", "proof": 33372, "previous_hash": "786e574b9aec68c758e9b60980324314a718d8bbb8697c0b17911e20a647b765"}
+{"index": 3, "timestamp": "2021-12-20 20:26:02.448001", "data": "LG - 65\" Class C1 Series OLED 4K UHD Smart webOS TV,Model:OLED65C1PUB", "proof": 2261, "previous_hash": "25db65a66872b6330d0cb2fcfd4ee06097d959b4a5116da1a03f6cc00640245e"}
+{"index": 4, "timestamp": "2021-12-20 20:26:15.363017", "data": "Bose - 5.1-Channel Lifestyle 650 Home Theater System,Model:LIFESTYLE 650 SYSTEM BLACK", "proof": 24094, "previous_hash": "01cb2d6ff39b3cd83f26e823774dda2c1f34a437e44bc7666c7b6f0dd939255e"}
+{"index": 5, "timestamp": "2021-12-20 20:26:25.820318", "data": "Apple - iPhone 13 Pro 5G 256GB - Sierra Blue,Model:MLU03LL/A", "proof": 29250, "previous_hash": "02e9f15d4d17bcf20c7813fb971d85fdc8e7ba351c9e6966f72d659248f69d29"}
